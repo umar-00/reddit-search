@@ -1,6 +1,6 @@
 # To run the app, follow any of the following instructions:
 ```
-- Run the code: python -m http.server
+- In root directory, run this code from terminal: python -m http.server
 - Open this on your browser: http://localhost:8000/
 ```
 or
